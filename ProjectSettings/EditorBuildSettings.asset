@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Lobby.unity
+    guid: cf2c70a2a2ce5d04d943609a07b58dcf
+  - enabled: 1
+    path: Assets/_Scenes/Story mode/Rotate.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_Scenes/Simulation/AR.unity
+    guid: 74556a0fcc5b1984fb20efee37161f78
+  - enabled: 1
+    path: Assets/_Scenes/Story mode/FindLoc.unity
+    guid: 0b8dec880edc61a41aae8aa9d44c01f9
+  - enabled: 1
+    path: Assets/_Scenes/Story mode/Slider.unity
+    guid: 2b16381226df5f543b3a70d73a19dc05
+  - enabled: 1
+    path: Assets/_Scenes/Story mode/EnterRocket.unity
+    guid: 508fb04c88eafdb4b81d1ad11070e496
+  - enabled: 1
+    path: Assets/_Scenes/Simulation/SimulationLobby.unity
+    guid: 4439cad44a681244193c7071b927da8d
+  - enabled: 1
+    path: Assets/_Scenes/Story mode/Level01.unity
+    guid: 7a0242855e76b794d82c3dbb875d6478
+  - enabled: 1
+    path: Assets/_Scenes/Story mode/PreLevelLesson.unity
+    guid: d1cebf6e1bbc7af4aa2fa26f3b9a9663
+  - enabled: 1
+    path: Assets/_Scenes/News/News.unity
+    guid: c5b9fe64fa5ae0e4b8ae8b264df92414
+  - enabled: 1
+    path: Assets/_Scenes/Simulation/3D.unity
+    guid: 00bdfa7bc1a67164f9c798f3c28ac0c5
+  - enabled: 1
+    path: Assets/_Scenes/Story mode/MultipleChoiceQuestion.unity
+    guid: 58603903e5f5d394a8afac40467950eb
+  - enabled: 1
+    path: Assets/_Scenes/Simulation/Video.unity
+    guid: 041c78ad36695d7458391040cec125d9
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3545fdf19f4f38245928f74fc9d3f4c9, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ce5cfc9930e11ae4182cd9e8435671a5, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: de11e505c2e941c4a90b0a86429ea401, type: 2}
