@@ -1,5 +1,5 @@
 # Eclipse-Explorer
-#### Eclipse Explorer is an innovative game-based learning app created by Team Eclipse Explorer. This interactive platform is designed to educate young learners about eclipses while making learning fun
+#### Eclipse Explorer is an innovative game-based learning app created by Team Eclipse Explorer in the NASA Space App Challenge 2023. This interactive platform is designed to educate young learners about eclipses while making learning fun.
 
 ## Index
 - <a href="https://github.com/atik107/Team-Eclipse-Explorer/wiki#app-description">App description</a>
