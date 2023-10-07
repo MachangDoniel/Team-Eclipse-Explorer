@@ -1,1 +1,1 @@
-# Team-Eclipse-Explorer
+# Eclipse-Explorer
