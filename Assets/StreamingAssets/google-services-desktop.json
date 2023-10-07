@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068075790765",
+    "project_id": "nasa-af2d0",
+    "storage_bucket": "nasa-af2d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068075790765:android:445200825405d72ab97124",
+        "android_client_info": {
+          "package_name": "com.Rafi.Nasa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVTneOMBp72sGWofmohaZrS8_8sHS4KOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
